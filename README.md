@@ -1,4 +1,3 @@
-````markdown
 # Document Intelligence Platform - Senior AI Task
 
 This project implements a production-ready slice of a document intelligence platform. It processes JSON Execution Envelopes by validating data, performing AI-driven commodity matching, and maintaining a transparent audit trail.
@@ -223,4 +222,3 @@ Dharmik Modi
 Junior Python Developer / Backend Developer
 
 ```
-````
